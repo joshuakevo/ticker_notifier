@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GenexusApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3F1D743835C944219A4345455C51AEDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8673A4C596DA4D7280961AB20611077D }}
           package: .
